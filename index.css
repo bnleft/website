@@ -1,0 +1,28 @@
+body {
+    background-color: #2D2926FF;
+    color: white;
+    font-family: 'Fira Code';
+    font-size: 16px;
+}
+
+a {
+    color: #E94B3CFF;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul ul ul {
+    list-style-type: circle;
+}
+
+header {
+    text-align: center;
+}
+
+.me {
+    margin: 0 auto;
+    max-width: 640px;
+    padding: 1rem 2rem;
+}
