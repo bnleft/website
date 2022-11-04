@@ -1,12 +1,17 @@
+:root {
+    --bg-color: #2D2926;
+    --fg-color: #BCA6ED;
+}
+
 body {
-    background-color: #2D2926FF;
+    background-color: var(--bg-color);
     color: white;
     font-family: 'Fira Code';
     font-size: 16px;
 }
 
 a {
-    color: #E94B3CFF;
+    color: var(--fg-color);
 }
 
 ul {
